@@ -18,7 +18,7 @@ https://hari3131.pythonanywhere.com/
 
 ```text
 images/
-└── portfolio-preview.png
+└── tt.svg
 ```
 
 Then update the image below.
