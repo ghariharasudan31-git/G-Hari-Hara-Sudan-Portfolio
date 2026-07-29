@@ -1,69 +1,80 @@
-# 🌐 G Hari Hara Sudan - Personal Portfolio
+# 🌐 G Hari Hara Sudan | Personal Portfolio
 
-A modern, responsive personal portfolio website built using **Python, Django, HTML, CSS, and JavaScript** to showcase my skills, projects, internship experience, certifications, and contact information.
+<p align="center">
+  <img src="images/tt.svg" alt="Portfolio Preview" width="400">
+</p>
+
+<p align="center">
+  <strong>A modern and responsive portfolio website built using Django, HTML, CSS, JavaScript, and Bootstrap.</strong>
+</p>
+
+<p align="center">
+  <a href="https://hari3131.pythonanywhere.com/">🌍 Live Website</a> •
+  <a href="https://github.com/ghariharasudan31-git">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/hari-hara-sudan-g-691ab4423/">💼 LinkedIn</a>
+</p>
 
 ---
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
 🌐 **Portfolio Website**
 
-https://hari3131.pythonanywhere.com/
+**https://hari3131.pythonanywhere.com/**
 
 ---
 
-## 📸 Portfolio Preview
+# 📖 About
 
-> Add a screenshot of your portfolio homepage inside the `images` folder.
+This is my personal portfolio website developed using **Python Django** to showcase my:
 
-```text
-images/
-└── tt.svg
-```
+- 👨‍💻 Technical Skills
+- 📂 Projects
+- 📜 Resume
+- 🏅 Internship & Certifications
+- 📞 Contact Information
 
-Then update the image below.
-
-![Portfolio Preview](images/portfolio-preview.png)
+The website features a modern UI with responsive design and smooth navigation.
 
 ---
 
 # ✨ Features
 
-- 🎨 Modern and responsive UI
-- 📱 Mobile-friendly design
-- 🚀 Smooth scrolling navigation
-- 👤 About Me section
-- 💻 Skills section
-- 📂 Projects showcase
-- 📜 Resume download
-- 🏅 Internship & Certification section
-- 📞 Contact section
-- 🌐 Social media links
-- ⭐ Custom favicon
-- ⚡ Fast loading design
+- 🎨 Modern UI Design
+- 📱 Fully Responsive Layout
+- 🚀 Smooth Scrolling Navigation
+- 👤 About Me Section
+- 💻 Skills Section
+- 📂 Projects Showcase
+- 📄 Resume Download
+- 🏅 Internship & Certifications
+- 📞 Contact Section
+- 🌐 Social Media Links
+- ⭐ Custom Favicon
+- ⚡ Fast Loading Performance
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-### Backend
+## Backend
 
 - Python
 - Django
 
-### Tools
+## Tools & Platforms
 
 - Git
 - GitHub
-- PythonAnywhere
 - VS Code
+- PythonAnywhere
 
 ---
 
@@ -81,6 +92,9 @@ G-Hari-Hara-Sudan-Portfolio/
 │   │
 │   └── templates/
 │
+├── images/
+│   └── tt.svg
+│
 ├── port/
 │
 ├── manage.py
@@ -91,27 +105,27 @@ G-Hari-Hara-Sudan-Portfolio/
 
 ---
 
-# 🚀 Installation
+# ⚙️ Installation
 
-### Clone Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/ghariharasudan31-git/G-Hari-Hara-Sudan-Portfolio.git
 ```
 
-Go to the project
+## Navigate to the Project
 
 ```bash
 cd G-Hari-Hara-Sudan-Portfolio
 ```
 
-Create Virtual Environment
+## Create a Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-Activate Virtual Environment
+## Activate the Virtual Environment
 
 ### Windows
 
@@ -119,25 +133,25 @@ Activate Virtual Environment
 venv\Scripts\activate
 ```
 
-### Linux/macOS
+### Linux / macOS
 
 ```bash
 source venv/bin/activate
 ```
 
-Install Django
+## Install Dependencies
 
 ```bash
-pip install django
+pip install -r requirements.txt
 ```
 
-Run Server
+## Run the Development Server
 
 ```bash
 python manage.py runserver
 ```
 
-Open
+Open your browser and visit:
 
 ```text
 http://127.0.0.1:8000/
@@ -145,7 +159,7 @@ http://127.0.0.1:8000/
 
 ---
 
-# 📌 Projects Included
+# 📂 Projects
 
 ## 🚖 Ride Booking Web Application
 
@@ -154,19 +168,20 @@ A Django-based ride booking application inspired by Rapido.
 ### Features
 
 - User Authentication
+- Interactive UI
 - Live Location
-- Interactive Map
 - Responsive Design
+- Django Backend
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
-A professional portfolio to showcase my:
+A professional portfolio website to showcase:
 
 - Skills
 - Projects
-- Internship
+- Internship Experience
 - Resume
 - Contact Information
 
@@ -174,47 +189,51 @@ A professional portfolio to showcase my:
 
 # 🎯 Future Improvements
 
-- Dark / Light Mode
-- Contact Form with Email Integration
-- Blog Section
-- Project Filters
-- Admin Dashboard
-- Visitor Counter
+- 🌙 Dark / Light Mode
+- 📧 Contact Form with Email Support
+- 📝 Blog Section
+- 🎨 More Animations
+- 📊 Visitor Counter
+- 🔍 Project Filtering
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Internship
 
-I am an aspiring **Python Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications using Django and front-end technologies.
+**Python Full Stack Developer Intern**
+
+**Digisailor Pvt. Ltd.**
+
+Successfully completed a **1-month internship** focused on Python Full Stack Development while exploring AI-powered development using **Antigravity**.
 
 ---
 
 # 📬 Contact
 
-📧 **Email**
+### 📧 Email
 
-g.hariharasudan31@gmail.com
+**g.hariharasudan31@gmail.com**
 
-💼 **LinkedIn**
+### 💻 GitHub
 
-https://www.linkedin.com/in/hari-hara-sudan-g-691ab4423/
+**https://github.com/ghariharasudan31-git**
 
-💻 **GitHub**
+### 💼 LinkedIn
 
-https://github.com/ghariharasudan31-git
+**https://www.linkedin.com/in/hari-hara-sudan-g-691ab4423/**
 
-🌐 **Portfolio**
+### 🌐 Portfolio
 
-https://hari3131.pythonanywhere.com/
-
----
-
-# ⭐ If you like this project
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
+**https://hari3131.pythonanywhere.com/**
 
 ---
 
-## 📄 License
+# ⭐ Support
 
-This project is intended for educational and portfolio purposes.
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 License
+
+This project is created for learning, portfolio, and professional showcase purposes.
